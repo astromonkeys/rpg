@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS7064: Error opening icon file C:\Users\Noah\source\repos\rpg\myicon.ico -- Could not find file 'C:\Users\Noah\source\repos\rpg\myicon.ico'.
+dotnet_diagnostic.CS7064.severity = error
